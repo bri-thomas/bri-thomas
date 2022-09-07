@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning to develop more SQL skills for data querying applications
 - 📫 You can reach me through my email, linkedIn, or phone found below:
 
-bt.thomas975@gmail.com
-https://www.linkedin.com/in/bt-thomas/
-+1(206)4887996
+bt.thomas975@gmail.com || 
+https://www.linkedin.com/in/bt-thomas/ ||
++1(206)4887996 ||
 
 Seattle, WA
 
